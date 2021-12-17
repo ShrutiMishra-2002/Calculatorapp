@@ -1,24 +1,25 @@
 
 ## calculation app using kotlin
 <br>
-<h2> What is python GUI :</h2> 
+<h2> What is Kotlin? :</h2> 
 <br><br>
-<p>Python offers multiple options for developing GUI (Graphical User Interface). ... It is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter is the fastest and easiest way to create the GUI applications. Creating a GUI using tkinter is an easy task.
+<p>
+Kotlin is designed to run on a Java Virtual Machine and can run side by side with Java. Although Kotlin first started as a language for Android development specifically, it quickly spread through the Java community because of its features and has since been used for many types of applications.
 </p> 
 <br><br>
 
 <h2> About this project : </h2>
 <br><br>
 <p>
-Calculator app is made by using kotlin.
-This is a simple app that calculates your numbers.
+Calculator app is made using kotlin language.
+This is a simple app that performs calculation like addition, subtraction, multiplication, division and clear operation.
 </p>
 <br><br>
 
 ## 📌 Tech Stack:
 <br><br>
-[![Android studio](https://img.shields.io/badge/androidstudio%20-%23E34F26.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)]
-[![kotlin](https://img.shields.io/badge/kotlin3%20-%231572B6.svg?&style=for-the-badge&logo=kotlin3&logoColor=white)]
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 <br><br>
 
 ## 📌 Main Page:
