@@ -1,6 +1,9 @@
 
 ## calculation app using kotlin
 <br>
+<img src="kotlinbanner.jpg" alt="banner" width="500px" height="300px">
+<br><br>
+
 <h2> What is Kotlin? :</h2> 
 <br><br>
 <p>
