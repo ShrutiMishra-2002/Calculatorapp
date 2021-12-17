@@ -30,15 +30,15 @@ This is a simple app that performs calculation like addition, subtraction, multi
 <h2>App image</h2>
 <br><br>
 
-<img src="images/add.png" alt="output" width="600px" height="500px">
+<img src="images/add.png" alt="output" width="200px" height="500px">
 <br><br>
-<img src="images/subt.png" alt="output" width="600px" height="500px">
+<img src="images/subt.png" alt="output" width="200px" height="500px">
 <br><br>
-<img src="images/mult.png" alt="output" width="600px" height="500px">
+<img src="images/mult.png" alt="output" width="200px" height="500px">
 <br><br>
-<img src="images/divi.png" alt="output" width="600px" height="500px">
+<img src="images/divi.png" alt="output" width="200px" height="500px">
 <br><br>
-<img src="images/clear.png" alt="output" width="600px" height="500px">
+<img src="images/clear.png" alt="output" width="200px" height="500px">
 <br><br>
 
 
