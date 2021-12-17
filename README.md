@@ -29,16 +29,25 @@ This is a simple app that performs calculation like addition, subtraction, multi
 <br><br>
 <h2>App image</h2>
 <br><br>
+<h2>Addition</h2>
 
-<img src="images/add.png" alt="output" width="200px" height="500px">
+<img src="images/add.png" alt="output" width="250px" height="500px">
 <br><br>
-<img src="images/subt.png" alt="output" width="200px" height="500px">
+<h2>Subtraction</h2>
+
+<img src="images/subt.png" alt="output" width="250px" height="500px">
 <br><br>
-<img src="images/mult.png" alt="output" width="200px" height="500px">
+<h2>Multiplication</h2>
+
+<img src="images/mult.png" alt="output" width="250px" height="500px">
 <br><br>
-<img src="images/divi.png" alt="output" width="200px" height="500px">
+<h2>Division</h2>
+
+<img src="images/divi.png" alt="output" width="250px" height="500px">
 <br><br>
-<img src="images/clear.png" alt="output" width="200px" height="500px">
+<h2>Clear</h2>
+
+<img src="images/clear.png" alt="output" width="250px" height="500px">
 <br><br>
 
 
