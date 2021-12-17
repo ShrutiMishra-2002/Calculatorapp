@@ -30,7 +30,7 @@ This is a simple app that performs calculation like addition, subtraction, multi
 <h2>App image</h2>
 <br><br>
 
-<img src="phoneapp.jpeg" alt="output" width="600px" height="400px">
+<img src="phoneapp.jpeg" alt="output" width="500px" height="200px">
 <br><br>
 
 
